@@ -90,6 +90,31 @@
             WidthRequest="200"
             HeightRequest="200"/>
 
+        <Image
+            x:Name="imgNeptune"
+            Opacity="0"
+            Source="neptune.png"
+            VerticalOptions="Start"
+            HorizontalOptions="End"
+            TranslationX="100"
+            TranslationY="-72"
+            WidthRequest="200"
+            HeightRequest="200"/>
+
+        <!--Intro Box-->
+        <Border
+            x:Name="imgIntro"
+            Opacity="0"
+            Padding="24,32"
+            BackgroundColor="{StaticResource FrameBackgroundColor}"
+            Stroke="{StaticResource BorderColor}"
+            HorizontalOptions="Fill"
+            VerticalOptions="End"
+            Margin="20">
+            
+            
+        </Border>
+
     </Grid>
     
 </ContentPage>

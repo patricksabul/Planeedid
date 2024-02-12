@@ -6,4 +6,19 @@ public partial class PlanetsPage : ContentPage
 	{
 		InitializeComponent();
 	}
+
+	private void TapGestureRecognizer_Tapped(object sender, EventArgs e)
+	{
+
+	}
+
+	async void GridArea_Tapped(System.Object sender, System.EventArgs e)
+	{
+
+	}
+
+    async void ApiPic_Clicked(System.Object sender, System.EventArgs e)
+    {
+
+    }
 }

@@ -9,7 +9,7 @@ namespace TARpe22MauiPlanets.Services
             new()
             {
                 Name = "Mercury",
-                Subtitle = "  The smallest planet",
+                Subtitle = "  The smalles planet",
                 HeroImage = "mercury.png",
                 Description = "Mercury is the smallest planet in the Solar " +
                 "System and the closest to the Sun. Its orbit around the Sun takes " +
